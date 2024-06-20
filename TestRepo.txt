@@ -1,6 +1,6 @@
 # Project Name
 
-A brief description of the project.
+Test is a test repo to check Github permissions
 
 ## Table of Contents
 
